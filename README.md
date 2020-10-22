@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Karmen :ocean: 👩🏾‍💻
+
+[![](http://img.youtube.com/vi/r4KEgfgiZsg/0.jpg)](http://www.youtube.com/watch?v=r4KEgfgiZsg "")
+
+
 
 <!--
 **kodebae/kodebae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

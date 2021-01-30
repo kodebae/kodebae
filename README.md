@@ -14,9 +14,9 @@
 
 ### Connect with me
 
-[twitter]:https://twitter.com/karmen_durbin
-[instagram]:https://www.instagram.com/karmen_durbin
-[linkedin]:https://www.linkedin.com/in/karmen-kristina-durbin/
+[twitter]: https://twitter.com/karmen_durbin
+[instagram]: https://www.instagram.com/karmen_durbin
+[linkedin]: https://www.linkedin.com/in/karmen-kristina-durbin/
 
 ### Languages and Tools 🛠 
 

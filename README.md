@@ -1,3 +1,4 @@
+
 # Hi there, I'm Karmen - aka [Kodebae] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -10,6 +11,12 @@
 - ⚡ Fun fact: I love anime.
 
 ---
+
+### Connect with me
+
+[twitter]:https://twitter.com/karmen_durbin
+[instagram]:https://www.instagram.com/karmen_durbin
+[linkedin]:https://www.linkedin.com/in/karmen-kristina-durbin/
 
 ### Languages and Tools 🛠 
 
@@ -27,6 +34,4 @@
 
  
 ---
-[twitter]: https://twitter.com/karmen_durbin
-[instagram]: https://www.instagram.com/karmen_durbin
-[linkedin]:https://www.linkedin.com/in/karmen-kristina-durbin/
+

@@ -8,15 +8,15 @@
 - 👨‍💻 I’m currently working on web development technologies like Java Spring Boot, React, and Python etc.
 - 📚 I’m currently learning everything Python 😅
 - 💪🏼 Future Goals: Learn more technologies and get my German language skills to fluent level.
-- ⚡ Fun fact: I love anime.
+- ⚡ Fun fact: I love anime and Ramen.
 
 ---
 
-### Connect with me
+## Connect with me 📱
 
-[twitter]: https://twitter.com/karmen_durbin
-[instagram]: https://www.instagram.com/karmen_durbin
-[linkedin]: https://www.linkedin.com/in/karmen-kristina-durbin/
+- [twitter](https://twitter.com/karmen_durbin)
+- [instagram](https://www.instagram.com/karmen_durbin)
+- [linkedin](https://www.linkedin.com/in/karmen-kristina-durbin/)
 
 ### Languages and Tools 🛠 
 

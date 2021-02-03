@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Full Stack Web Developer 
+## I'm a Full Stack Web Developer 👩🏽‍💻
 
 - 👨‍💻 I’m currently working on web development technologies like Java Spring Boot, React, and Python etc.
 - 📚 I’m currently learning everything Python 😅

@@ -6,7 +6,7 @@
 ## I'm a Full Stack Web Developer 👩🏽‍💻
 
 - 👨‍💻 I’m currently working on web development technologies like Java Spring Boot, React, and Python etc.
-- 📚 I’m currently learning everything Python 😅
+- 📚 I’m currently learning everything Android Development 😅
 - 💪🏼 Future Goals: Learn more technologies and get my German language skills to fluent level.
 - ⚡ Fun fact: I love anime and Ramen.
 

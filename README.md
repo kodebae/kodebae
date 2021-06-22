@@ -14,6 +14,7 @@
 
 ## Connect with me 📱
 
+- [DEV Community Profile](https://dev.to/kodebae)
 - [twitter](https://twitter.com/karmen_durbin)
 - [instagram](https://www.instagram.com/karmen_durbin)
 - [linkedin](https://www.linkedin.com/in/karmen-kristina-durbin/)

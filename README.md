@@ -1,7 +1,7 @@
-# 💫 Karmen Durbin AKA - Kodebae:
+# 👩🏽‍💻 Karmen Durbin:
 **`Software Engineer (Digital Developement/Communications/Marketing)`**
 
-👨‍💻 I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development & Marketing. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python.
+I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development & Marketing. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python.
 <br>
 
 <a href="https://github.com/ForrestKnight?tab=followers">

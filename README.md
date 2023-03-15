@@ -25,15 +25,20 @@ I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Developm
 ![](https://github-profile-trophy.vercel.app/?username=kodebae&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/karmen_durbin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/karmen_durbin)(https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/"width="512px"/>
 
 ---
+<details>
+ <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
+   I started my coding journey in early 2015 while attending school to pursue my bachelors degree in communications and marketing. With a strong desire to learn everything about digital development this eventually lead me down the path to becoming a full stack software engineer. I worked full time as a frontend engineer and spent my time on the weekends attending coding meetups in Asheville NC all while attending school fulltime to pursue my degrees. Eventually I graduated but at the end of my journey realized that my true passion was coding all along. That prompted me to go a step further and attend Bloom Institute of Technology's for Full-Stack Web Development training. Upon completion I worked (breifly) in testing then accepted a position as a Software Engineering Apprentace at Bestimate where I coded; web scrapers, automation scripts, and mobile API's. Currently I am pursuing my cloud certifications and working on portfolio projects. 
+
+[website]: https://karmen-durbin-swe.netlify.app/
 [![](https://visitcount.itsvg.in/api?id=kodebae&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

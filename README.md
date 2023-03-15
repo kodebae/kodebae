@@ -8,7 +8,6 @@
 I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development to Full Stack Software Engineering. I started my coding journey in early 2015 while attending school to pursue my bachelors degree in communications and marketing. I had a strong desire to learn everything about digital development and this eventually lead me down the path to becoming a software engineer. I worked full time as a Frontend Engineer and spent my time on the weekends attending coding meetups in Asheville NC all while attending school fulltime to pursue my degrees. Eventually I graduated but upon graduation I realized that my true passion was becoming a software engineer all along. That prompted me to go a step further and attend Bloom Institute of Technology's Full-Stack Web Development program. Upon graduation from Bloom Tech I worked (breifly) in testing then accepted a position as a Software Engineering Apprentace at Bestimate. At Bestimate I engineered; web scrapers, automation scripts, and mobile API's. Currently I am pursuing my cloud certifications and working on portfolio projects. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python. If you're interested, checkout my portfolio linked below. 
 
 [website]: https://karmen-durbin-swe.netlify.app/
-[![](https://visitcount.itsvg.in/api?id=kodebae&icon=0&color=0)](https://visitcount.itsvg.in)
  
  </details>
  --- 
@@ -33,11 +32,9 @@ I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Developm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kodebae&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/karmen_durbin)(https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=kodebae&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 

@@ -1,12 +1,15 @@
 # 👩🏽‍💻 Karmen Durbin:
 **`Software Engineer (Digital Developement/Communications/Marketing)`**
 
-I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development & Marketing. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python.
-<br>
+<details>
+ <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
+I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development to Full Stack Software Engineering. I started my coding journey in early 2015 while attending school to pursue my bachelors degree in communications and marketing. I had a strong desire to learn everything about digital development and this eventually lead me down the path to becoming a software engineer. I worked full time as a Frontend Engineer and spent my time on the weekends attending coding meetups in Asheville NC all while attending school fulltime to pursue my degrees. Eventually I graduated but upon graduation I realized that my true passion was becoming a software engineer all along. That prompted me to go a step further and attend Bloom Institute of Technology's Full-Stack Web Development program. Upon graduation from Bloom Tech I worked (breifly) in testing then accepted a position as a Software Engineering Apprentace at Bestimate. At Bestimate I engineered; web scrapers, automation scripts, and mobile API's. Currently I am pursuing my cloud certifications and working on portfolio projects. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python. If you're interested, checkout my portfolio linked below. 
 
-<a href="https://github.com/ForrestKnight?tab=followers">
+[website]: https://karmen-durbin-swe.netlify.app/
+
+<a href="https://github.com/kodebae?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kodebae?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/kodebae?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kodebae?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 --- 
@@ -30,15 +33,8 @@ I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Developm
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/"width="512px"/>
 
 ---
-<details>
- <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
-   I started my coding journey in early 2015 while attending school to pursue my bachelors degree in communications and marketing. With a strong desire to learn everything about digital development this eventually lead me down the path to becoming a full stack software engineer. I worked full time as a frontend engineer and spent my time on the weekends attending coding meetups in Asheville NC all while attending school fulltime to pursue my degrees. Eventually I graduated but at the end of my journey realized that my true passion was coding all along. That prompted me to go a step further and attend Bloom Institute of Technology's for Full-Stack Web Development training. Upon completion I worked (breifly) in testing then accepted a position as a Software Engineering Apprentace at Bestimate where I coded; web scrapers, automation scripts, and mobile API's. Currently I am pursuing my cloud certifications and working on portfolio projects. 
-
-[website]: https://karmen-durbin-swe.netlify.app/
 [![](https://visitcount.itsvg.in/api?id=kodebae&icon=0&color=0)](https://visitcount.itsvg.in)
 
 

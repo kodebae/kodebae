@@ -6,10 +6,6 @@
 --- 
 <br>
 
-📚 I’m currently learning the German language. <br>
-💪🏼 Future Goals: Learn more technologies such as AWS.<br>
-⚡ Fun fact: I love anime, painting, sushi, and ramen. <br>
-
 <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kodebae?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">

@@ -1,5 +1,11 @@
-# 💫 About Me:
-👨‍💻 Full Stack Software Engineer with years of experience in Web Development. Experience working with Java, Python, JavaScript, React.js, SpringBoot, web-based apps, RESTful API's and more. Professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on web development technologies including Java Spring Boot, React, and Python.<br>📚 I’m currently learning the German language. <br>💪🏼 Future Goals: Learn more technologies such as AWS.<br>⚡ Fun fact: I love anime, painting, sushi, and ramen.
+# 💫 Karmen Durbin AKA - Kodebae:
+**`Software Engineer (Digital Developement/Communications/Marketing)`**
+
+👨‍💻 I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development & Marketing. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python.
+<br>
+📚 I’m currently learning the German language. <br>
+💪🏼 Future Goals: Learn more technologies such as AWS.<br>
+⚡ Fun fact: I love anime, painting, sushi, and ramen. <br>
 
 
 ## 🌐 Socials:

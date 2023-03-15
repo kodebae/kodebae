@@ -2,8 +2,6 @@
 **`Software Engineer (Digital Developement/Communications/Marketing)`**
 
 👨‍💻 I'm an indie Full Stack Software Engineer who pivoted from Frontend Web Development & Marketing. I have experience working with Java, Python, JavaScript, React.js, SpringBoot building web apps, RESTful API's and more. I have additional professional experience in providing clients with SEO/SEM and other digital marketing solutions. I’m currently working on building projects with these technologies: Java Spring Boot, React, and Python.
-
---- 
 <br>
 
 <a href="https://github.com/ForrestKnight?tab=followers">
@@ -11,6 +9,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kodebae?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
+--- 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/heykarmendurbin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karmen-kristina-durbin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/karmen_durbin) 

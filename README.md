@@ -12,7 +12,7 @@ Following graduation, I gained professional experience as a Software Engineering
 Currently, I am pursuing my cloud certifications and working on portfolio projects using Java Spring Boot, React, and Python. I invite you to explore my portfolio linked below to see my work in action.
  
 
-[website]: https://karmen-durbin-swe.netlify.app/
+[website](https://karmen-durbin-swe.netlify.app/)
  
  </details>
 

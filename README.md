@@ -8,7 +8,9 @@
  
 As an indie Software Engineer, I bring a wealth of experience in Software Engineering and Frontend Web Development. My coding journey began in 2015, while pursuing a bachelors degree in communications and marketing. With a strong passion for digital development, I devoted my weekends to attending coding meetups in Asheville NC while working as a Frontend Engineer and attending school full-time. After graduation, I realized my true calling was in full-stack software engineering, leading me to attend the Web Development program at Bloom Institute of Technology.
 
-Following graduation, I gained professional experience as a Software Engineering Apprentice at Bestimate, where I developed web scrapers, automation scripts, and mobile APIs. I have expertise in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs, and more. Additionally, I have experience in providing clients with SEO/SEM and other digital marketing solutions.
+Following graduation, I gained professional experience as a Software Engineering Apprentice at Bestimate, where I developed web scrapers, automation scripts, and mobile APIs. I have experience in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs, and more. Additionally, I have experience in providing clients with SEO/SEM and other digital marketing solutions.
+ 
+In my previous roles, I have successfully managed communication channels with stakeholders, end-users, and clients. I have also worked on interdisciplinary teams, where I have provided valuable insights and technical expertise while collaborating with colleagues from diverse backgrounds.
 
 Currently, I am pursuing my AWS cloud certifications and working on portfolio projects using Java Spring Boot, React, and Python. I invite you to explore my portfolio linked here to see my work in action.
  

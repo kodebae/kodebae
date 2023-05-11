@@ -6,14 +6,17 @@
 <details>
  <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
  
-As an indie Software Engineer, I bring a wealth of experience in Software Engineering and Frontend Web Development. My coding journey began in 2015, while pursuing a bachelors degree in communications and marketing. With a strong passion for digital development, I devoted my weekends to attending coding meetups in Asheville NC while working as a Frontend Engineer and attending school full-time. After graduation, I realized my true calling was in full-stack software engineering, leading me to attend the Web Development program at Bloom Institute of Technology.
-
-Following graduation, I gained professional experience as a Software Engineering Apprentice at Bestimate, where I developed web scrapers, automation scripts, and mobile APIs. I have experience in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs, and more. Additionally, I have experience in providing clients with SEO/SEM and other digital marketing solutions.
+As an enthusiastic and experienced Software Engineer, I bring a diverse background in both Software Engineering and Communications to Web Development. 
  
-In my previous roles, I have successfully managed communication channels with stakeholders, end-users, and clients. I have also worked on interdisciplinary teams, where I have provided valuable insights and technical expertise while collaborating with colleagues from diverse backgrounds.
+I began my coding journey in 2015 while pursuing my degrees in communications and marketing, and since then, I have been honing my skills through attending coding meetups in Asheville NC and working as an Engineer.
 
-Currently, I am pursuing my AWS cloud certifications and working on portfolio projects using Java Spring Boot, React, and Python. I invite you to explore my portfolio linked here to see my work in action.
- 
+My passion for full-stack software engineering led me to attend the Web Development program at Bloom Institute of Technology, where I gained invaluable skills in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs, and more. I also have experience providing clients in Upsate area with SEO/SEM and other digital marketing solutions.
+
+In my previous roles, I have successfully managed communication channels with stakeholders, end-users, and clients. I thrive on interdisciplinary team collaborations and have provided valuable insights and technical expertise while working alongside colleagues from diverse backgrounds.
+
+Currently, I'm pursuing my AWS cloud certifications and working on portfolio projects using Java Spring Boot, React, and Python. I would love for you to explore my portfolio, which showcases my recent work in action.
+
+Thank you for taking the time to learn about my experiences and skills. I'm excited to see how I can contribute to your team as a Software Engineer!
 
 [Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
  

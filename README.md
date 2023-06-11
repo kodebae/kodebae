@@ -1,5 +1,5 @@
-# 👋🏽 Hello World I'm Karmen Durbin
-**`Software Engineer (Digital Developement + Communications)`**
+# 👋🏽 Hello World, I'm Karmen Durbin
+**`Software Engineer + Technical Writter`**
 
 <img align="center" alt="Coding" width="1200" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 

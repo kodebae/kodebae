@@ -5,18 +5,18 @@
 
 <details>
  <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
- 
-As an enthusiastic and experienced Software Engineer, I bring a diverse background in both Software Engineering and Communications to Web Development. 
- 
-I began my coding journey in 2015 while pursuing my degrees in communications and marketing, and since then, I have been honing my skills through attending coding meetups in Asheville NC and working as an Engineer.
 
-My passion for full-stack software engineering led me to attend the Web Development program at Bloom Institute of Technology, where I gained invaluable skills in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs, and more. I also have experience providing clients in Upsate area with SEO/SEM and other digital marketing solutions.
+As an enthusiastic and experienced Software Engineer, I bring a diverse background of both Software Engineering and Communications to the table. My coding journey began in 2015 while pursuing undergrad degrees in communications and marketing. Since then, I have continuously honed my skills through attending coding school, going to coding meetups in Asheville, NC, and working as a Frontend Software Engineer for 5+ years before taking the dive into full-stack. In addition to my technical skills, I have provided clients in the Upstate area with SEO/SEM work and other digital development solutions.
 
-In my previous roles, I have successfully managed communication channels with stakeholders, end-users, and clients. I thrive on interdisciplinary team collaborations and have provided valuable insights and technical expertise while working alongside colleagues from diverse backgrounds.
+I am deeply passionate about software engineering, which led me to attend the Web Development program at Bloom Institute of Technology in 2020. There, I gained invaluable expertise in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs and more. 
 
-Currently, I'm pursuing my AWS cloud certifications and working on portfolio projects using Java Spring Boot, React, and Python. I would love for you to explore my portfolio, which showcases my recent work in action.
+After graduation I gained real world experince working for Besitmate as a SWE Apprentice. I excelled in managing communication channels with stakeholders, end-users, and clients. I thrive in collaborative, interdisciplinary team environments, working alongside colleagues from diverse backgrounds and providing valuable insights and technical expertise. I am certified in Enterprise Design Thinking through IBM and I utilize these skills when working cross functionally.
 
-Thank you for taking the time to learn about my experiences and skills. I'm excited to see how I can contribute to your team as a Software Engineer!
+Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer. I believe in continuous learning and development as a loop, embracing new technologies and methodologies. I am also engaged in a few open source projects that utilize Java, Spring Boot, Docker, K8S, AWS and more.
+
+I invite you to explore my portfolio, where you can see my recent work in action. My open source projects have not been added yet as they are still in the desgin phase or currently not pushed to prod, but these will be added soon. Thank you for taking the time to learn about my experiences and skills. If you'd like to talk to me about working on a project you can reach out to me. I have a contact form on my portfolio page.
+
+I am currently a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
 
 [Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
  

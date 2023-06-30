@@ -12,11 +12,11 @@ I am deeply passionate about software engineering, which led me to attend the We
 
 After graduation I gained real world experince working for Besitmate as a SWE Apprentice. I excelled in managing communication channels with stakeholders, end-users, and clients. I thrive in collaborative, interdisciplinary team environments, working alongside colleagues from diverse backgrounds and providing valuable insights and technical expertise. I am certified in Enterprise Design Thinking through IBM and I utilize these skills when working cross functionally.
 
-Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer. I believe in continuous learning and development as a loop, embracing new technologies and methodologies. I am also engaged in a few open source projects that utilize Java, Spring Boot, Docker, K8S, AWS and more.
+Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer who specilizes in Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I am also engaged in a few open source projects that utilize Java, Spring Boot, Docker, K8S, AWS and more.
 
-I invite you to explore my portfolio, where you can see my recent work in action. My open source projects have not been added yet as they are still in the desgin phase or currently not pushed to prod, but these will be added soon. Thank you for taking the time to learn about my experiences and skills. If you'd like to talk to me about working on a project you can reach out to me. I have a contact form on my portfolio page.
+I invite you to explore my portfolio, where you can see my recent work in action. My open source projects have not been added yet as they are still in the desgin phase or currently not pushed to a public repo, but these will be added soon. Thank you for taking the time to learn about my experiences and skills. If you'd like to talk to me about working on a project you can reach out to me directly. I have a contact form on my portfolio page.
 
-I am currently a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
+Fun Fact about me: I am currently a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
 
 [Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
  

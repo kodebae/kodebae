@@ -6,17 +6,13 @@
 <details>
  <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
 
-As an enthusiastic and experienced Software Engineer, I bring a diverse background of both Software Engineering and Communications to the table. My coding journey began in 2015 while pursuing undergrad degrees in communications and marketing. Since then, I have continuously honed my skills through attending coding school, going to coding meetups in Asheville, NC, and working as a Frontend Software Engineer for 5+ years before taking the dive into full-stack. In addition to my technical skills, I have provided clients in the Upstate area with SEO/SEM work and other digital development solutions.
+**Currently:** I'm a Site Reliability Engineer at Coaigo Consulting in Greenville, SC. I have 8 years of experience in a few different areas in tech, Full-Stack Engineering, Digital Marketing, Site Reliability Engineering, and now, a technical lead at Women Who Code Greenville. I thrive in the dynamic realm of ensuring software reliability, enhancing performance, and maintaining availability. So I’ve done a lot of different things. My life long passion is geared toward aerospace and defense engineering. One day I hope to leverage my technical skills to contribute to the future of aviation and space exploration.
 
-I am deeply passionate about software engineering, which led me to attend the Web Development program at Bloom Institute of Technology in 2020. There, I gained invaluable expertise in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs and more. 
+**My Past:** My coding journey began in 2015 while pursuing my undergrad degrees in communications and marketing. I am deeply passionate about software engineering, which led me to attend the Web Development program at Bloom Institute of Technology in 2020. There, I gained invaluable expertise in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs and more. Since then, I have continuously honed my skills through attending coding school, going to coding meetups and working as a Frontend and a Full-Stack SWE. In addition to my technical skills, I have provided clients in the Upstate area with Enterprise Design Thinking, SEO,SEM, brand awareness, and other digital development solutions.
 
-After graduation I gained real world experince working for Besitmate as a SWE Apprentice. I excelled in managing communication channels with stakeholders, end-users, and clients. I thrive in collaborative, interdisciplinary team environments, working alongside colleagues from diverse backgrounds and providing valuable insights and technical expertise. I am certified in Enterprise Design Thinking through IBM and I utilize these skills when working cross functionally.
+**Education:** Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer who specilizes in Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I invite you to explore my portfolio, where you can see my recent work in action. Thank you for taking the time to learn more about me.
 
-Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer who specilizes in Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I am also engaged in a few open source projects that utilize Java, Spring Boot, Docker, K8S, AWS and more.
-
-I invite you to explore my portfolio, where you can see my recent work in action. My open source projects have not been added yet as they are still in the desgin phase or currently not pushed to a public repo, but these will be added soon. Thank you for taking the time to learn about my experiences and skills. If you'd like to talk to me about working on a project you can reach out to me directly. I have a contact form on my portfolio page.
-
-Fun Fact about me: I am currently a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
+**Fun Fact about me:** I am currently a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
 
 [Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
  
@@ -34,7 +30,7 @@ Fun Fact about me: I am currently a ghost writer for technical blogs. I will be 
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kodebae?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/heykarmendurbin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karmen-kristina-durbin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/karmen_durbin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karmen-kristina-durbin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/karmen_durbin)
 
 [![](https://visitcount.itsvg.in/api?id=kodebae&icon=0&color=0)](https://visitcount.itsvg.in)
 

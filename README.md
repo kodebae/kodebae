@@ -6,13 +6,11 @@
 <details>
  <summary><h3>👩🏽‍💻 Karmen's Coding Journey</h3></summary>
 
-**Currently:** I'm a Site Reliability Engineer at Coaigo Consulting in Greenville, SC. I have 8 years of experience in a few different areas in tech, Full-Stack Engineering, Digital Marketing, Site Reliability Engineering, and now, a technical lead at Women Who Code Greenville. I thrive in the dynamic realm of ensuring software reliability, enhancing performance, and maintaining availability. So I’ve done a lot of different things. My life long passion is geared toward aerospace and defense engineering. One day I hope to leverage my technical skills to contribute to the future of aviation and space exploration.
+**Currently:** I'm a Site Reliability Engineer at Coaigo Consulting in Greenville, SC. I have 8 years of experience in a few different areas in tech, Full-Stack Engineering, Digital Marketing, Site Reliability Engineering, and now, a technical lead at Women Who Code Greenville. I thrive in the dynamic realm of ensuring software reliability, enhancing performance, and maintaining availability. My life long passion is geared toward aerospace and defense engineering. One day I hope to leverage my technical skills to contribute to the future of aviation and space exploration.
 
 **My Past:** My coding journey began in 2015 while pursuing my undergrad degrees in communications and marketing. I am deeply passionate about software engineering, which led me to attend the Web Development program at Bloom Institute of Technology in 2020. There, I gained invaluable expertise in Java, Python, JavaScript, React.js, SpringBoot, RESTful APIs and more. Since then, I have continuously honed my skills, going to coding meetups, and working as a SWE & SRE. In addition to my technical skills, I have provided clients in the Upstate area with Enterprise Design Thinking, SEO/SEM, brand awareness, and other digital development solutions.
 
-**Education:** Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer at The Agile Learning Institute in Asheville NC. My area of study is Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I invite you to explore my portfolio, where you can see my recent work in action. 
-
-**Fun Fact about me:** I'm a ghost writer for technical blogs. I will be opeing up my calendar and accepting new clients again soon. 
+**Education:** Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer at The Agile Learning Institute in NC/SC. My area of study is Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I invite you to explore my portfolio, where you can see my recent work in action. 
 
 [Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
  

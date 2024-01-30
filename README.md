@@ -47,3 +47,23 @@
 
 
 
+   
+   <h2>
+   <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/49656307-karmen-durbin?shelf=read&utm_medium=api&utm_source=grid_widget">Karmen's bookshelf: read</a>
+    </h2>
+    
+  
+  <a title="Dream House" rel="nofollow" href="https://www.goodreads.com/book/show/27173614-dream-house">
+  <img alt="Dream House" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452634665l/27173614._SX98_.jpg"/></a>
+     
+  <a title="Eragon (The Inheritance Cycle, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/113436.Eragon">
+  <img alt="Eragon" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SX98_.jpg"/></a>
+     
+
+  <a title="The Magician's Nephew (Chronicles of Narnia, #6)" rel="nofollow" href="https://www.goodreads.com/book/show/65605.The_Magician_s_Nephew">
+  <img alt="The Magician's Nephew" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814770l/65605._SX98_.jpg"/></a>
+  
+    
+  <a style="font-size: .9em; color: #382110; text-decoration: none; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/49656307-karmen-durbin">Karmen Durbin's favorite books »</a>
+     
+   <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Karmen, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.    </noscript>

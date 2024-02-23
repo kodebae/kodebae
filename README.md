@@ -12,7 +12,7 @@
 
 **Education:** Right now I am actively refining my coding craftsmanship and currently being Mentored as a "T" shaped engineer at The Agile Learning Institute in NC/SC. My area of study is Site Reliability Engineering. I believe in continuous learning and development as a loop, while embracing new technologies and methodologies. I invite you to explore my portfolio, where you can see my recent work in action. 
 
-[Check out my portfolio!](https://karmen-durbin-swe.netlify.app/)
+
  
  </details>
 

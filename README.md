@@ -1,5 +1,5 @@
 # 👾 Hello Earth, I'm Karmen Durbin
-**`Software Engineer & iOS Developer`**
+**`Software Engineer`**
 
 <img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 

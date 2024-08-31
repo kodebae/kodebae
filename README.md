@@ -32,6 +32,14 @@ I'm a versatile Software Engineer with a passion for building clean, modern appl
 - **Moon Gazer** (tentative title): A text-based game built with Ruby, featuring a mysterious journey under the moonlight. (WIP)
 
 ## 🛠️ Tech Stack
+```json
+{
+  "languages": ["JavaScript", "Python", "Ruby", "Java"],
+  "frameworks": ["React", "Rails", "Spring Boot"],
+  "databases": ["PostgreSQL", "MongoDB", "Redis"],
+  "tools": ["Docker", "Git", "AWS"]
+}
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -61,6 +69,9 @@ I'm a versatile Software Engineer with a passion for building clean, modern appl
 - [How To Create a Dictionary In Java](https://dev.to/kodebae/how-to-create-a-dictionary-in-java-7m0)
 <!-- BLOG-POST-LIST:END -->
 
+## 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🤝 Connect with me
 
 <p align="center">
@@ -69,6 +80,7 @@ I'm a versatile Software Engineer with a passion for building clean, modern appl
   <a href="https://dev.to/kodebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kodebae" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/kodebae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kodebae" height="30" width="40" /></a>
 </p>
+
 
 ---
 

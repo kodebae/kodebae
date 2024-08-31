@@ -29,7 +29,7 @@ I'm a versatile Software Engineer with a passion for building clean, modern appl
 ## 🚀 What I'm Working On
 
 - **Cloud Resume Project**: Enhancing my portfolio and skills by tackling this comprehensive AWS challenge. (WIP)
-- **Moon Gazer** (tentative title): A text-based game built with Ruby, featuring a mysterious journey under the moonlight. (WIP)
+- **Edge of the Twilight Veil** (tentative title): A text-based game built with Ruby, featuring a mysterious journey under the moonlight. (WIP)
 
 ## 🛠️ Tech Stack
 ```json

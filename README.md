@@ -48,7 +48,7 @@ I'm a versatile Software Engineer with a passion for building clean, modern appl
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kodebae&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kodebae&theme=radical" alt="GitHub Streak" />
 </p>

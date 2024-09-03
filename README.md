@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a versatile Software Engineer with a passion for building clean, modern applications. My journey started with coding MySpace pages in high school in PHP and has since evolved into a career focused on full-stack web development. With expertise in React, JavaScript, Python, Java, and Ruby on Rails, I enjoy tackling complex problems and creating efficient, user-friendly solutions.
+I'm a Full-Stack Software Engineer with a passion for building clean, modern applications. My journey started with coding MySpace pages in high school in PHP and has since evolved into a career focused on full-stack web development. With expertise in React, JavaScript, Python, Java, and Ruby on Rails, I enjoy tackling complex problems and creating efficient, user-friendly solutions.
 
 - 🔭 I'm currently working on [volunteering for UpWiSE (Upstate Women in Software Engineering)](https://upwisesc.org)
 - 🌱 I'm currently learning **Ruby on Rails, iOS development, Linux, & Cyber Security**

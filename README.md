@@ -64,6 +64,7 @@ I'm a Full-Stack Software Engineer with a passion for building clean, modern app
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to remove a leaked .env file from GitHub permanently](https://dev.to/kodebae/how-to-remove-a-leaked-env-file-from-github-permanently-3lei)
 - [Apple M1 MacBook App Installation Guide](https://dev.to/kodebae/how-to-install-homebrew-and-other-packages-on-m1-macbook-4585)
 - [How To Traverse A Binary Tree in Python](https://dev.to/kodebae/understanding-binary-tree-traversal-in-python-11hm)
 - [How To Create a Dictionary In Java](https://dev.to/kodebae/how-to-create-a-dictionary-in-java-7m0)

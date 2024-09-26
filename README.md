@@ -83,6 +83,8 @@ I'm a Full-Stack Software Engineer with a passion for building clean, modern app
 </p>
 
 
+[![An image of @kodebae's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kodebae)](https://holopin.io/@kodebae)
+
 ---
 
 <p align="center">
